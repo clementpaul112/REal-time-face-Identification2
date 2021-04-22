@@ -1,0 +1,50 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 10px 18px grey;
+}
+
+.heading_div
+{
+    float: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div_2
+{
+    font-size: 18px;
+    
+}
+
+.object_para
+{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+
+}
+
+.footer_div
+{
+    position:fixed;
+    color:white;
+    background-color: grey;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    height:50px;
+    font-size: 25px;
+}
+
+canvas
+{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+}
